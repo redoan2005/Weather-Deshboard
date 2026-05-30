@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Weather Dashboard (basic info)
 
 ## Setup
 1. Clone the repo
